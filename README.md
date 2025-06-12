@@ -1,16 +1,14 @@
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# Product Manager
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- MSc in Information Technology | Jahangirnagar University (_December 2020_)								       		
+- BSc in Information Technology | Jahangirnagar University (_December 2018_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Senior Product Manager @ Sheba Platform (_February 2025 - May 2025)**
+• Spearheaded the end-to-end development of a secure and scalable fintech product, integrating UX research to enhance digital payments. 
+• Defined product strategy, roadmap, and feature set, ensuring product led growth and user-centric innovation. 
+• Leveraged business and customer event data to optimize features and marketing, boosting conversion and retention metrics.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
