@@ -10,9 +10,18 @@
 - Defined product strategy, roadmap, and feature set, ensuring product led growth and user-centric innovation. 
 - Leveraged business and customer event data to optimize features and marketing, boosting conversion and retention metrics.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Product Manager @ Vivasoft (_January 2024 - January 2025)**
+- Led the modernization and successful launch of a 6-year-old HR SaaS product in the Gulf Region.
+- Conducted in-depth UX research and implemented data-driven improvements to optimize user satisfaction. 
+- Performed thorough analysis and validation of business requirements to ensure project feasibility and success. 
+- Oversaw rigorous testing and quality assurance processes to elevate product performance.
+
+
+**Technical Product Manager @ Reve Systems (_November 2022 - January 2024)**
+- Contributed to the design and implementation of a scalable chatbot API system for millions of users. 
+- Spearheaded technical UX research to streamline user interactions and improve overall product usability. 
+- Developed clear and concise user stories and a comprehensive Product Requirements Document (PRD) to guide development efforts.  
+- Led the mobile team to achieve a 20% increase in product business & performance through targeted optimizations.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
