@@ -6,9 +6,9 @@
 
 ## Work Experience
 **Senior Product Manager @ Sheba Platform (_February 2025 - May 2025)**
-• Spearheaded the end-to-end development of a secure and scalable fintech product, integrating UX research to enhance digital payments. 
-• Defined product strategy, roadmap, and feature set, ensuring product led growth and user-centric innovation. 
-• Leveraged business and customer event data to optimize features and marketing, boosting conversion and retention metrics.
+- Spearheaded the end-to-end development of a secure and scalable fintech product, integrating UX research to enhance digital payments. 
+- Defined product strategy, roadmap, and feature set, ensuring product led growth and user-centric innovation. 
+- Leveraged business and customer event data to optimize features and marketing, boosting conversion and retention metrics.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
