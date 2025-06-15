@@ -1,23 +1,23 @@
 # Product Manager
 
 ## Education
-- MSc in Information Technology | Jahangirnagar University (January 2019 - December 2020)								       		
-- BSc in Information Technology | Jahangirnagar University (March 2015 - December 2018)
+- MSc in Information Technology | Jahangirnagar University (December 2020)								       		
+- BSc in Information Technology | Jahangirnagar University (December 2018)
 
 ## Work Experience
-**Senior Product Manager @ Sheba Platform (February 2025 - May 2025)**
+**Senior Product Manager @ Sheba Platform (Feb 2025 - May 2025)**
 - Spearheaded the end-to-end development of a secure and scalable fintech product, integrating UX research to enhance digital payments. 
 - Defined product strategy, roadmap, and feature set, ensuring product led growth and user-centric innovation. 
 - Leveraged business and customer event data to optimize features and marketing, boosting conversion and retention metrics.
 
-**Product Manager @ Vivasoft (January 2024 - January 2025)**
+**Product Manager @ Vivasoft (Jan 2024 - Jan 2025)**
 - Led the modernization and successful launch of a 6-year-old HR SaaS product in the Gulf Region.
 - Conducted in-depth UX research and implemented data-driven improvements to optimize user satisfaction. 
 - Performed thorough analysis and validation of business requirements to ensure project feasibility and success. 
 - Oversaw rigorous testing and quality assurance processes to elevate product performance.
 
 
-**Technical Product Manager @ Reve Systems (November 2022 - January 2024)**
+**Technical Product Manager @ Reve Systems (Nov 2022 - Jan 2024)**
 - Contributed to the design and implementation of a scalable chatbot API system for millions of users. 
 - Spearheaded technical UX research to streamline user interactions and improve overall product usability. 
 - Developed clear and concise user stories and a comprehensive Product Requirements Document (PRD) to guide development efforts.  
@@ -28,10 +28,10 @@
 - Complied with architectural standards and guidelines to maintain system integrity and scalability. 
 - Ensured integration testing met performance requirements for a high-quality product.
 
-**Research Fellow @ ICT Division, Bangladesh (July 2021 - December 2022)**
+**Research Fellow @ ICT Division, Bangladesh (July 2021 - Dec 2022)**
 - Researched on ' Indoor Positioning and Navigation using Bluetooth Low Energy and Cloud Service in Healthcare Perspective.
 
-**Software Engineer @ SEBPO (February 2020 - February 2021)**
+**Software Engineer @ SEBPO (Feb 2020 - Feb 2021)**
 - Implemented data scraping solutions with Groovy on Grails, integrating with various data sources and formats. 
 - Coordinated on projects involving Android and Flutter development. 
 - Facilitated the development and implementation of project plans adhering to industry standards.
