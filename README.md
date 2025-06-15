@@ -28,11 +28,6 @@
 - Complied with architectural standards and guidelines to maintain system integrity and scalability. 
 - Ensured integration testing met performance requirements for a high-quality product.
 
-**Software Engineer @ BRAC IT (May 2021 - April 2022)**
-- Supported the development of financial software with a user base exceeding millions. 
-- Complied with architectural standards and guidelines to maintain system integrity and scalability. 
-- Ensured integration testing met performance requirements for a high-quality product.
-
 **Research Fellow @ ICT Division, Bangladesh (July 2021 - December 2022)**
 - Researched on ' Indoor Positioning and Navigation using Bluetooth Low Energy and Cloud Service in Healthcare Perspective.
 
