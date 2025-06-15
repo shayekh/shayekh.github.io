@@ -37,8 +37,8 @@
 - Facilitated the development and implementation of project plans adhering to industry standards.
 
 ## Competitive Programming 
-- Hackerrank: https://www.hackerrank.com/profile/shayekhebnemizan
-- LeetCode: [shayekh01 - LeetCode Profile](https://leetcode.com/u/shayekh01/)
+- Hackerrank: [Shayekh Ebne Mizan - HackerRank ]https://www.hackerrank.com/profile/shayekhebnemizan
+- LeetCode: [Shayekh Ebne Mizan- LeetCode ](https://leetcode.com/u/shayekh01/)
 
 ## Awards & Achievements
 - ICT Fellowship Award 
