@@ -51,15 +51,11 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Awards & Achievements
+- ICT Fellowship Award 
+- Best Impact Award on International Conference on Applied Intelligence and Informatics 2021 
+- BASIS: Mobile Application Development (Project Winner-Team Lead) 
+- Project Champion IIT Day, 2019 (IEEE JU)
 
 ## Publications
 1. Indoor Positioning and Navigation Using Bluetooth Low Energy and Cloud Service in Healthcare Perspective 
@@ -74,4 +70,4 @@ DOI: [COVID-Hero: Machine Learning Based COVID-19 Awareness Enhancement Mobile G
 The 14th International Conference on Brain Informatics (BI 2021) Padova - Italy  
 DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Diseases | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-030-86993-9_37)
 
-- [Tech & Product Blog](https://medium.com/@shayekh.iit.ju.44)
+- [Tech & Product Blog] (https://medium.com/@shayekh.iit.ju.44)
