@@ -60,3 +60,16 @@ The 14th International Conference on Brain Informatics (BI 2021) Padova - Italy
 DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Diseases | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-030-86993-9_37)
 
 - Medium Blog: [Tech & Product Blog](https://medium.com/@shayekh.iit.ju.44)
+
+## LEADERSHIP
+**Chairperson – JU Chapter @ IEEE Computer Society, Bangladesh (Feb 2019 - Dec 2020)**
+- Most Promising Branch Award during my Chairperson phase.
+
+## SKILLS & INTERESTS
+
+**Skills**:[Agile, Product Roadmap, UX Research, Business Analysis, Data-driven Decision Making, PRD, Analytical Tools (Hotjar, UXCam), 
+Project Management (JIRA, Notion), Mobile App & Backend (Java), Quality Assurance, SQL, Version Controlling (GIT), Market Research, 
+GTM, Academic Research]
+
+**Passions**: [Product Growth, Story Telling of Ideas, Writing, Film Making, Travel]
+
