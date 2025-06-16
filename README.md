@@ -39,11 +39,18 @@
 ## Projects
 
 **Service7000**
-Service 7000 AG is a Swiss specialist in household appliance services — offering repair, sales, and installation for all major brands. They operate independently of manufacturers, focusing on sustainable solutions—repairing when possible, replacing when necessary. They also provide services to real-estate managers, offer courses, inspections, customer portal access, and support for subsidy funding.
+- Service 7000 AG is a Swiss specialist in household appliance services — offering repair, sales, and installation for all major brands. They operate independently of manufacturers, focusing on sustainable solutions—repairing when possible, replacing when necessary. They also provide services to real-estate managers, offer courses, inspections, customer portal access, and support for subsidy funding.
 
 
 **Sheba Manager**
-Sheba Manager is subsidiary of the revolutionary Sheba universe in Bangladesh for MSMEs that helps a user to track sale, cash flow, inventory management, order processing, account management, digital banking, loan processing, digital marketing and beyond. This is an agent of business growth, for the growing economy of MSME. The philosophy behind this solution is Start, Sale, Manage & Grow. This is a step forward digitizing Micro, Small & Medium Entrepreneurs and nurturing holistic development of the community.
+- Sheba Manager is is a key product within the Sheba ecosystem in Bangladesh, built to empower MSMEs with tools for sales tracking, cash flow, inventory, orders, accounting, digital banking, loan processing, and marketing. Guided by the philosophy Start, Sale, Manage & Grow, it drives digital transformation and inclusive growth for micro, small, and medium entrepreneurs.
+
+**Huduri**
+- Leading Payroll and HR Software in the Middle East Enhance the way your HR division operates. Automate payroll and HR tasks with a single piece of software. Across the nation, over 400 businesses use our HR software. In Gulf region, Huduri is the leading HR software.
+
+
+**PiHR**
+- Transform the way your HR department works. Manage HR and payroll activities from a single software. Our HR software is used by more than 400 companies across the country. PiHR is the best HR software in Bangladesh.
 
 ## Competitive Programming 
 - Hackerrank: [Shayekh Ebne Mizan - HackerRank ](https://www.hackerrank.com/profile/shayekhebnemizan)
