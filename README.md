@@ -64,10 +64,10 @@
 **Agent Banking**
 - Agent Banking module of BRAC Bank. Contributing to onboarding, communication and outlet monitoring modules. Working with library service for ease of API consumption and scripting DDL and DML.
 
-**Eve Project (Women Security)**
+**Eve Project**
 - This app mainly focuses to eradicate the public transportation harassment of women. Several award winning project.
 
-**University Bus Tracker (Driver & Student App)**
+**University Bus Tracker**
 -  This app makes the location tracking of the drivers and students and teachers can get the real-time location in the student app. Associated with the B.sc Final Defense. 
 
 
