@@ -52,6 +52,25 @@
 **PiHR**
 - Transform the way your HR department works. Manage HR and payroll activities from a single software. Our HR software is used by more than 400 companies across the country. PiHR is the best HR software in Bangladesh.
 
+**Unity Bank Chatbot System**
+- Unity Bank Chatbot System - powered by REVE Chat Chatbot AI.
+
+**REVE Chat**
+- REVE Chat is an omnichannel customer engagement platform that delights customers and boosts sales with Live Chat & AI-powered Chatbot.
+
+**Indoor GPS Tracing**
+- This app uses BLE signals to trace indoor GPS. Especially for Alzheimer's patients. Combination of Android of things, Fog IOT and navigation computing. It is associated with the ICT Fellowship for M.Sc.
+
+**Agent Banking**
+- Agent Banking module of BRAC Bank. Contributing to onboarding, communication and outlet monitoring modules. Working with library service for ease of API consumption and scripting DDL and DML.
+
+**Eve Project (Women Security)**
+- This app mainly focuses to eradicate the public transportation harassment of women. Several award winning project.
+
+**University Bus Tracker (Driver & Student App)**
+-  This app makes the location tracking of the drivers and students and teachers can get the real-time location in the student app. Associated with the B.sc Final Defense. 
+
+
 ## Competitive Programming 
 - Hackerrank: [Shayekh Ebne Mizan - HackerRank ](https://www.hackerrank.com/profile/shayekhebnemizan)
 - LeetCode: [Shayekh Ebne Mizan- LeetCode ](https://leetcode.com/u/shayekh01/)
