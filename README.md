@@ -36,6 +36,15 @@
 - Coordinated on projects involving Android and Flutter development. 
 - Facilitated the development and implementation of project plans adhering to industry standards.
 
+## Projects
+
+**Service7000**
+Service 7000 AG is a Swiss specialist in household appliance services — offering repair, sales, and installation for all major brands. They operate independently of manufacturers, focusing on sustainable solutions—repairing when possible, replacing when necessary. They also provide services to real-estate managers, offer courses, inspections, customer portal access, and support for subsidy funding.
+
+
+**Sheba Manager**
+Sheba Manager is subsidiary of the revolutionary Sheba universe in Bangladesh for MSMEs that helps a user to track sale, cash flow, inventory management, order processing, account management, digital banking, loan processing, digital marketing and beyond. This is an agent of business growth, for the growing economy of MSME. The philosophy behind this solution is Start, Sale, Manage & Grow. This is a step forward digitizing Micro, Small & Medium Entrepreneurs and nurturing holistic development of the community.
+
 ## Competitive Programming 
 - Hackerrank: [Shayekh Ebne Mizan - HackerRank ](https://www.hackerrank.com/profile/shayekhebnemizan)
 - LeetCode: [Shayekh Ebne Mizan- LeetCode ](https://leetcode.com/u/shayekh01/)
@@ -59,6 +68,8 @@ DOI: [COVID-Hero: Machine Learning Based COVID-19 Awareness Enhancement Mobile G
 The 14th International Conference on Brain Informatics (BI 2021) Padova - Italy  
 DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Diseases | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-030-86993-9_37)
 
+- Google Scholar: [Google Scholar Shayekh](https://scholar.google.com/citations?user=fHKkN40AAAAJ&hl=en)
+
 - Medium Blog: [Tech & Product Blog](https://medium.com/@shayekh.iit.ju.44)
 
 ## LEADERSHIP
@@ -67,7 +78,7 @@ DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Disea
 
 ## SKILLS & INTERESTS
 
-**Skills**:[Agile, Product Roadmap, UX Research, Business Analysis, Data-driven Decision Making, PRD, Analytical Tools (Hotjar, UXCam), 
+**Skills**: [Agile, Product Roadmap, UX Research, Business Analysis, Data-driven Decision Making, PRD, Analytical Tools (Hotjar, UXCam), 
 Project Management (JIRA, Notion), Mobile App & Backend (Java), Quality Assurance, SQL, Version Controlling (GIT), Market Research, 
 GTM, Academic Research]
 
