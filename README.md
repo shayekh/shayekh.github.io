@@ -98,6 +98,8 @@ DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Disea
 
 - Medium Blog: [Tech & Product Blog](https://medium.com/@shayekh.iit.ju.44)
 
+- Literature: [Poetry Book](https://www.rokomari.com/book/232198/roktojobar-kajolgola-chokh)
+
 ## LEADERSHIP
 **Chairperson – JU Chapter @ IEEE Computer Society, Bangladesh (Feb 2019 - Dec 2020)**
 - Most Promising Branch Award during my Chairperson phase.
