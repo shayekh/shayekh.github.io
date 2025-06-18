@@ -5,6 +5,13 @@
 - BSc in Information Technology | Jahangirnagar University (Dec 2018)
 
 ## Work Experience
+
+**Product Manager @ Selise (June 2025 - Present**
+- Led product strategy across B2C service requests, technician workflows, and B2B operations
+- Collaborated with UX, Dev, QA, Data, and Biz teams to launch user-focused, scalable features
+- Acted as liaison between investors, C-levels, and teams to align goals and budgets
+- Drove growth by improving onboarding, expanding B2B reach, and boosting tenant engagement
+
 **Senior Product Manager @ Sheba Platform (Feb 2025 - May 2025)**
 - Spearheaded the end-to-end development of a secure and scalable fintech product, integrating UX research to enhance digital payments. 
 - Defined product strategy, roadmap, and feature set, ensuring product led growth and user-centric innovation. 
