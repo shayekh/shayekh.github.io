@@ -1,5 +1,9 @@
 # Product Manager
 
+Experienced Software Product Manager with a background in project management and software engineering. Skilled in business analysis, 
+system design, UX research, product growth,  GTM strategy, data analysis and SaaS delivery across B2B and B2C in AI, Fintech, HR, and 
+E-commerce.
+
 ## Education
 - MSc in Information Technology | Jahangirnagar University (Dec 2020)								       		
 - BSc in Information Technology | Jahangirnagar University (Dec 2018)
