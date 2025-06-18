@@ -6,7 +6,7 @@
 
 ## Work Experience
 
-**Product Manager @ Selise (June 2025 - Present**
+**Product Manager @ Selise (June 2025 - Present)**
 - Led product strategy across B2C service requests, technician workflows, and B2B operations
 - Collaborated with UX, Dev, QA, Data, and Biz teams to launch user-focused, scalable features
 - Acted as liaison between investors, C-levels, and teams to align goals and budgets
