@@ -1,62 +1,125 @@
 # Product Manager
 
+Experienced Software Product Manager with a background in project management and software engineering. Skilled in business analysis, 
+system design, UX research, product growth,  GTM strategy, data analysis and SaaS delivery across B2B and B2C in AI, Fintech, HR, and 
+E-commerce.
+
 ## Education
-- MSc in Information Technology | Jahangirnagar University (_December 2020_)								       		
-- BSc in Information Technology | Jahangirnagar University (_December 2018_)
+- MSc in Information Technology | Jahangirnagar University (Dec 2020)								       		
+- BSc in Information Technology | Jahangirnagar University (Dec 2018)
 
 ## Work Experience
-**Senior Product Manager @ Sheba Platform (_February 2025 - May 2025)**
+
+**Product Manager @ Selise (June 2025 - Present)**
+- Led product strategy across B2C service requests, technician workflows, and B2B operations
+- Collaborated with UX, Dev, QA, Data, and Biz teams to launch user-focused, scalable features
+- Acted as liaison between investors, C-levels, and teams to align goals and budgets
+- Drove growth by improving onboarding, expanding B2B reach, and boosting tenant engagement
+
+**Senior Product Manager @ Sheba Platform (Feb 2025 - May 2025)**
 - Spearheaded the end-to-end development of a secure and scalable fintech product, integrating UX research to enhance digital payments. 
 - Defined product strategy, roadmap, and feature set, ensuring product led growth and user-centric innovation. 
 - Leveraged business and customer event data to optimize features and marketing, boosting conversion and retention metrics.
 
-**Product Manager @ Vivasoft (_January 2024 - January 2025)**
+**Product Manager @ Vivasoft (Jan 2024 - Jan 2025)**
 - Led the modernization and successful launch of a 6-year-old HR SaaS product in the Gulf Region.
 - Conducted in-depth UX research and implemented data-driven improvements to optimize user satisfaction. 
 - Performed thorough analysis and validation of business requirements to ensure project feasibility and success. 
 - Oversaw rigorous testing and quality assurance processes to elevate product performance.
 
 
-**Technical Product Manager @ Reve Systems (_November 2022 - January 2024)**
+**Technical Product Manager @ Reve Systems (Nov 2022 - Jan 2024)**
 - Contributed to the design and implementation of a scalable chatbot API system for millions of users. 
 - Spearheaded technical UX research to streamline user interactions and improve overall product usability. 
 - Developed clear and concise user stories and a comprehensive Product Requirements Document (PRD) to guide development efforts.  
 - Led the mobile team to achieve a 20% increase in product business & performance through targeted optimizations.
 
+**Software Engineer @ BRAC IT (May 2021 - April 2022)**
+- Supported the development of financial software with a user base exceeding millions. 
+- Complied with architectural standards and guidelines to maintain system integrity and scalability. 
+- Ensured integration testing met performance requirements for a high-quality product.
+
+**Research Fellow @ ICT Division, Bangladesh (July 2021 - Dec 2022)**
+- Researched on ' Indoor Positioning and Navigation using Bluetooth Low Energy and Cloud Service in Healthcare Perspective.
+
+**Software Engineer @ SEBPO (Feb 2020 - Feb 2021)**
+- Implemented data scraping solutions with Groovy on Grails, integrating with various data sources and formats. 
+- Coordinated on projects involving Android and Flutter development. 
+- Facilitated the development and implementation of project plans adhering to industry standards.
+
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Service7000**
+- Service 7000 AG is a Swiss specialist in household appliance services — offering repair, sales, and installation for all major brands. They operate independently of manufacturers, focusing on sustainable solutions—repairing when possible, replacing when necessary. They also provide services to real-estate managers, offer courses, inspections, customer portal access, and support for subsidy funding.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Sheba Manager**
+- Sheba Manager is is a key product within the Sheba ecosystem in Bangladesh, built to empower MSMEs with tools for sales tracking, cash flow, inventory, orders, accounting, digital banking, loan processing, and marketing. Guided by the philosophy Start, Sale, Manage & Grow, it drives digital transformation and inclusive growth for micro, small, and medium entrepreneurs.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Huduri**
+- Leading Payroll and HR Software in the Middle East Enhance the way your HR division operates. Automate payroll and HR tasks with a single piece of software. Across the nation, over 400 businesses use our HR software. In Gulf region, Huduri is the leading HR software.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+**PiHR**
+- Transform the way your HR department works. Manage HR and payroll activities from a single software. Our HR software is used by more than 400 companies across the country. PiHR is the best HR software in Bangladesh.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+**Unity Bank Chatbot System**
+- Unity Bank Chatbot System - powered by REVE Chat Chatbot AI.
+
+**REVE Chat**
+- REVE Chat is an omnichannel customer engagement platform that delights customers and boosts sales with Live Chat & AI-powered Chatbot.
+
+**Indoor GPS Tracing**
+- This app uses BLE signals to trace indoor GPS. Especially for Alzheimer's patients. Combination of Android of things, Fog IOT and navigation computing. It is associated with the ICT Fellowship for M.Sc.
+
+**Agent Banking**
+- Agent Banking module of BRAC Bank. Contributing to onboarding, communication and outlet monitoring modules. Working with library service for ease of API consumption and scripting DDL and DML.
+
+**Eve Project**
+- This app mainly focuses to eradicate the public transportation harassment of women. Several award winning project.
+
+**University Bus Tracker**
+-  This app makes the location tracking of the drivers and students and teachers can get the real-time location in the student app. Associated with the B.sc Final Defense. 
+
+
+## Competitive Programming 
+- Hackerrank: [Shayekh Ebne Mizan - HackerRank ](https://www.hackerrank.com/profile/shayekhebnemizan)
+- LeetCode: [Shayekh Ebne Mizan- LeetCode ](https://leetcode.com/u/shayekh01/)
+
+## Awards & Achievements
+- ICT Fellowship Award 
+- Best Impact Award on International Conference on Applied Intelligence and Informatics 2021 
+- BASIS: Mobile Application Development (Project Winner-Team Lead) 
+- Project Champion IIT Day, 2019 (IEEE JU)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Indoor Positioning and Navigation Using Bluetooth Low Energy and Cloud Service in Healthcare Perspective 
+International Conference on Applied Intelligence and Informatics 2022 Reggio Calabria - Italy  
+DOI: [Indoor Positioning and Navigation Using Bluetooth Low Energy and Cloud Service in Healthcare Perspective | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-031-24801-6_32)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+2. COVID-Hero: Machine Learning Based COVID-19 Awareness Enhancement Mobile Game for Children 
+International Conference on Applied Intelligence and Informatics 2021 Nottingham - UK 
+DOI: [COVID-Hero: Machine Learning Based COVID-19 Awareness Enhancement Mobile Game for Children | SpringerLink ](https://link.springer.com/chapter/10.1007/978-3-030-82269-9_25)
+
+3. Indoor Navigation Support System for Patients with Neurodegenerative Diseases 
+The 14th International Conference on Brain Informatics (BI 2021) Padova - Italy  
+DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Diseases | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-030-86993-9_37)
+
+- Google Scholar: [Google Scholar Shayekh](https://scholar.google.com/citations?user=fHKkN40AAAAJ&hl=en)
+
+- Medium Blog: [Tech & Product Blog](https://medium.com/@shayekh.iit.ju.44)
+
+- Literature: [Poetry Book](https://www.rokomari.com/book/232198/roktojobar-kajolgola-chokh)
+
+## LEADERSHIP
+**Chairperson – JU Chapter @ IEEE Computer Society, Bangladesh (Feb 2019 - Dec 2020)**
+- Most Promising Branch Award during my Chairperson phase.
+
+## SKILLS & INTERESTS
+
+**Skills**: [Agile, Product Roadmap, UX Research, Business Analysis, Data-driven Decision Making, PRD, Analytical Tools (Hotjar, UXCam), 
+Project Management (JIRA, Notion), Mobile App & Backend (Java), Quality Assurance, SQL, Version Controlling (GIT), Market Research, 
+GTM, Academic Research]
+
+**Passions**: [Product Growth, Story Telling of Ideas, Writing, Film Making, Travel]
+
