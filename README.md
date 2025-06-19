@@ -105,6 +105,8 @@ DOI: [COVID-Hero: Machine Learning Based COVID-19 Awareness Enhancement Mobile G
 The 14th International Conference on Brain Informatics (BI 2021) Padova - Italy  
 DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Diseases | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-030-86993-9_37)
 
+## Blogs & Articles
+
 - Google Scholar: [Google Scholar Shayekh](https://scholar.google.com/citations?user=fHKkN40AAAAJ&hl=en)
 
 - Medium Blog: [Tech & Product Blog](https://medium.com/@shayekh.iit.ju.44)
