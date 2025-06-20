@@ -117,6 +117,35 @@ DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Disea
 **Chairperson – JU Chapter @ IEEE Computer Society, Bangladesh (Feb 2019 - Dec 2020)**
 - Most Promising Branch Award during my Chairperson phase.
 
+## Certifications
+- Product-led Certification — Pendo.io
+- AI for Product Management — Pendo.io
+- Mobile App Product Management Certification — UXCam
+- Instagram System Design Course — Scaler
+- Agile with Atlassian Jira — Atlassian
+- How to use roadmaps in Jira — Coursera
+- Scrum Master Certification: Scaling Agile and the Team-of-Teams — LearnQuest
+- Product Management for AI & Data Science — Udemy
+- Project Management: Technical Projects — Project Management Institute
+- Product Management Insights — LinkedIn
+- Product Management: Building a Product Roadmap — Project Management Institute
+- Technical Product Management — IIBA
+- A Great start to your new Product Manager position — Udemy
+- Win your Product Management job interview with Big Tech's PM — Udemy
+- Project Management — Great Learning
+- Project Management Foundations: Budgets — Project Management Institute
+- Project Management Foundations: Teams — Project Management Institute
+- Project Management Foundations: Communication — NASBA
+- Project Management Foundations: Ethics — Project Management Institute
+- Project Management Foundations: Risk — NASBA
+- Agile Project Management: Agile, Scrum Kanban & XP — Udemy
+- Project Management Foundations — Project Management Institute
+- Managing Project Stakeholders — LinkedIn
+- Project Management Foundations: Requirements — LinkedIn
+- Problem Solving — HackerRank
+- Mastering Flutter for Mobile Apps (iOS & Android) — BASIS Institute of Technology & Management Limited (BITM)
+- BITM Certified Mobile App Developer — BASIS Institute of Technology & Management Limited (BITM)
+
 ## SKILLS & INTERESTS
 
 **Skills**: [Agile, Product Roadmap, UX Research, Business Analysis, Data-driven Decision Making, PRD, Analytical Tools (Hotjar, UXCam), 
