@@ -6,10 +6,6 @@ E-commerce.
 
 ## Education
 
-## Education
-
-## Education
-
 | ACMP in Technology & Engineering Management | IBA - University of Dhaka *(Oct 2025)*       |
 |---------------------------------------------|---------------------------------------------|
 | MSc in Information Technology               | IIT - Jahangirnagar University *(Dec 2020)* |
