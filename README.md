@@ -5,7 +5,7 @@ system design, UX research, product growth,  GTM strategy, data analysis and Saa
 E-commerce.
 
 ## Education
-- ACMP in Technology Management | IBA - University of Dhaka (Oct 2025)	
+- ACMP in Technology & Engineering Management | IBA - University of Dhaka (Oct 2025)	
 - MSc in Information Technology | IIT - Jahangirnagar University (Dec 2020)								       		
 - BSc in Information Technology | IIT - Jahangirnagar University (Dec 2018)
 
@@ -119,7 +119,6 @@ DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Disea
 - Most Promising Branch Award during my Chairperson phase.
 
 ## Certifications
-- ACMP 4.0 in Technology & Engineering Management — IBA, University of Dhaka
 - Product-led Certification — Pendo.io
 - AI for Product Management — Pendo.io
 - Mobile App Product Management Certification — UXCam
