@@ -5,8 +5,9 @@ system design, UX research, product growth,  GTM strategy, data analysis and Saa
 E-commerce.
 
 ## Education
-- MSc in Information Technology | Jahangirnagar University (Dec 2020)								       		
-- BSc in Information Technology | Jahangirnagar University (Dec 2018)
+- ACMP 4.0 in Technology & Engineering Management | IBA - University of Dhaka (Oct 2025)
+- MSc in Information Technology | IIT - Jahangirnagar University (Dec 2020)								       		
+- BSc in Information Technology | IIT - Jahangirnagar University (Dec 2018)
 
 ## Work Experience
 
