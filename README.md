@@ -118,7 +118,7 @@ DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Disea
 - Most Promising Branch Award during my Chairperson phase.
 
 ## Certifications
-- - ACMP 4.0 in Technology & Engineering Management | IBA - University of Dhaka
+- ACMP 4.0 in Technology & Engineering Management - IBA, University of Dhaka
 - Product-led Certification — Pendo.io
 - AI for Product Management — Pendo.io
 - Mobile App Product Management Certification — UXCam
