@@ -6,17 +6,15 @@ E-commerce.
 
 ## Education
 
-| Degree                                      | Institution & Date                          |
-|--------------------------------------------|---------------------------------------------|
-| **ACMP in Technology & Engineering Management** | IBA - University of Dhaka *(Oct 2025)*       |
-| **MSc in Information Technology**           | IIT - Jahangirnagar University *(Dec 2020)* |
-| **BSc in Information Technology**           | IIT - Jahangirnagar University *(Dec 2018)* |
-
+## Education
 
 ## Education
-- ACMP in Technology & Engineering Management | IBA - University of Dhaka (Oct 2025)	
-- MSc in Information Technology | IIT - Jahangirnagar University (Dec 2020)								       		
-- BSc in Information Technology | IIT - Jahangirnagar University (Dec 2018)
+
+| ACMP in Technology & Engineering Management | IBA - University of Dhaka *(Oct 2025)*       |
+|---------------------------------------------|---------------------------------------------|
+| MSc in Information Technology               | IIT - Jahangirnagar University *(Dec 2020)* |
+| BSc in Information Technology               | IIT - Jahangirnagar University *(Dec 2018)* |
+
 
 ## Work Experience
 
