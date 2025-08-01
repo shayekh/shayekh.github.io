@@ -1,4 +1,4 @@
-# <h1 style="color:#2E86C1;">Product Manager</h1>
+# Product Manager
 
 Experienced Software Product Manager with a background in project management and software engineering. Skilled in business analysis, 
 system design, UX research, product growth,  GTM strategy, data analysis and SaaS delivery across B2B and B2C in AI, Fintech, HR, and 
