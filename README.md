@@ -158,9 +158,9 @@ DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Disea
 
 ## SKILLS & INTERESTS
 
-**Skills**: [Agile, Product Roadmap, UX Research, Business Analysis, Data-driven Decision Making, PRD, Analytical Tools (Hotjar, UXCam), 
-Project Management (JIRA, Notion), Mobile App & Backend (Java), Quality Assurance, SQL, Version Controlling (GIT), Market Research, 
-GTM, Academic Research]
+**Skills**: [Agile, Product Roadmap, UX Research, Wireframing & Prototyping (Figma, Miro), Business Analysis, Data-driven Decision Making, PRD, Product 
+Analytics (Mizpanel, GA4, UXCam), Project Management (JIRA, Notion, GitHub), A/B Testing, Mobile App & Backend (Java), Quality Assurance, SQL, 
+Version Controlling (GIT), Market Research, GTM, Academic Research]
 
 **Passions**: [Product Growth, Story Telling of Ideas, Writing, Film Making, Travel]
 
