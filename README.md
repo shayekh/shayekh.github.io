@@ -5,13 +5,15 @@ system design, UX research, product growth,  GTM strategy, data analysis and Saa
 E-commerce.
 
 ## Education
-- MSc in Information Technology | IIT - Jahangirnagar University (Dec 2020)								       		
-- BSc in Information Technology | IIT - Jahangirnagar University (Dec 2018)
+
+| MSc in Information Technology               | IIT - Jahangirnagar University *(Dec 2020)* |
+| BSc in Information Technology               | IIT - Jahangirnagar University *(Dec 2018)* |
+
 
 ## Work Experience
 
 **Product Manager @ Selise (June 2025 - Present)**
-- Led product strategy across B2C service requests, technician workflows, and B2B operations
+- Led product strategy across B2C service requests, and B2B operations
 - Collaborated with UX, Dev, QA, Data, and Biz teams to launch user-focused, scalable features
 - Acted as liaison between investors, C-levels, and teams to align goals and budgets
 - Drove growth by improving onboarding, expanding B2B reach, and boosting tenant engagement
@@ -46,6 +48,13 @@ E-commerce.
 - Implemented data scraping solutions with Groovy on Grails, integrating with various data sources and formats. 
 - Coordinated on projects involving Android and Flutter development. 
 - Facilitated the development and implementation of project plans adhering to industry standards.
+
+## Academic Involvement
+
+**Adjunct Faculty @ United International University (July 2025 - Present)**
+- Conducting lab on software development practices including version control, software design and testing
+- Introducing Agile methodologies and real-world tools to enhance hands-on learning 
+- Bridging academic theory with industry experience to better prepare students for software careers
 
 ## Projects
 
@@ -118,7 +127,7 @@ DOI: [Indoor Navigation Support System for Patients with Neurodegenerative Disea
 - Most Promising Branch Award during my Chairperson phase.
 
 ## Certifications
-- ACMP 4.0 in Technology & Engineering Management — IBA, University of Dhaka
+- ACMP 4.0 in Technology Management — IBA, University of Dhaka
 - Product-led Certification — Pendo.io
 - AI for Product Management — Pendo.io
 - Mobile App Product Management Certification — UXCam
