@@ -1,8 +1,6 @@
 # Product Manager
 
-Experienced Software Product Manager with a background in project management and software engineering. Skilled in business analysis, 
-system design, UX research, product growth,  GTM strategy, data analysis and SaaS delivery across B2B and B2C in AI, Fintech, HR, and 
-E-commerce.
+Experienced Software & AI Product Manager with expertise in product strategy, AI/LLM-powered products, business analysis, system design, UX research, product growth, GTM strategy, data analysis, and SaaS delivery across B2B and B2C markets in AI, Fintech, HR, and E-commerce.
 
 ## Education
 
