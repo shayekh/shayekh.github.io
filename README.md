@@ -1,6 +1,6 @@
 # Product Manager
 
-Experienced Software & AI Product Manager with expertise in product strategy, AI/LLM-powered products, AI Agents, agentic workflows, business analysis, system design, UX research, product growth, GTM strategy, data analysis, and SaaS delivery across B2B and B2C markets in AI, Fintech, HR, and E-commerce.
+Experienced Software & AI Product Manager with expertise in product strategy, AI/LLM-powered products, AI Agents, agentic workflows, business analysis, system design, UX research, product growth, GTM strategy, data analysis, and SaaS delivery across B2B and B2C markets in AI, Fintech, HR, E-commerce, IoT and PropTech.
 
 ## Education
 
