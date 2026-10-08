@@ -60,6 +60,9 @@ Experienced Software & AI Product Manager with expertise in product strategy, AI
 
 ## Projects
 
+**BloomGo**
+- BloomGo is an IoT-based Battery Management System designed for electric three-wheelers. The platform enables organizations to monitor, manage, and operate batteries through different user roles and access levels.
+  
 **Service7000**
 - Service 7000 AG is a Swiss specialist in household appliance services — offering repair, sales, and installation for all major brands. They operate independently of manufacturers, focusing on sustainable solutions—repairing when possible, replacing when necessary. They also provide services to real-estate managers, offer courses, inspections, customer portal access, and support for subsidy funding.
 
