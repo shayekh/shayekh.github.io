@@ -10,13 +10,17 @@ Experienced Software & AI Product Manager with expertise in product strategy, AI
 
 ## Work Experience
 
-**Product Manager @ Selise (June 2025 - Present)**
+**Senior Product Manager @ SELISE Group (Sep 2026 - Present)**
+- Own product strategy and roadmap for B2C and B2B operations with C-level and investor alignment.
+- Drive AI-native products, agentic workflows, and LLM features, saving 25% of time in service operations.
+- Build internal automation tools to reduce manual effort in delivery reporting, while mentoring product teams.
+
+**Product Manager @ SELISE Group (June 2025 - Aug 2026)**
 - Led product strategy across B2C service requests, and B2B operations
 - Collaborated with UX, Dev, QA, Data, and Biz teams to launch user-focused, scalable features
-- Acted as liaison between investors, C-levels, and teams to align goals and budgets
-- Drove growth by improving onboarding, expanding B2B reach, and boosting tenant engagement
+- Drove growth and acted as liaison between investors, C-levels, and teams to align goals and budgets.
 
-**Senior Product Manager @ Sheba Platform (Feb 2025 - May 2025)**
+**Product Manager @ Sheba Platform (Feb 2025 - May 2025)**
 - Spearheaded the end-to-end development of a secure and scalable fintech product, integrating UX research to enhance digital payments. 
 - Defined product strategy, roadmap, and feature set, ensuring product led growth and user-centric innovation. 
 - Leveraged business and customer event data to optimize features and marketing, boosting conversion and retention metrics.
