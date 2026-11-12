@@ -4,7 +4,7 @@ Experienced Software & AI Product Manager with expertise in product strategy, AI
 
 ## Education
 
-| MSc in Information Technology               | IIT - Jahangirnagar University *(Dec 2020)* |
+| MSc in Information Technology               | IIT - Jahangirnagar University *(Dec 2019)* |
 | BSc in Information Technology               | IIT - Jahangirnagar University *(Dec 2018)* |
 
 
